@@ -1,3 +1,3 @@
-# Programacion_de_aplicaciones
+# Programacion de aplicaciones
 
 Programas realizados en 9no cuatrimestre
